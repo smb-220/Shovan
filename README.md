@@ -8,13 +8,6 @@
 ## 🔥 Streak stats
 
 
-<p align="center">
-  <a href="https://github.com/kole-swapnil">
-    <img  alt="kole-swapnil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kole-swapnil&theme=highcontrast&hide_border=true"/>
-  </a>
-  
-</p>
-
 </br>
 
 <!--Skills-->
