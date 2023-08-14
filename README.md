@@ -1,5 +1,5 @@
 <h1 align="center">Shovan Mishra</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=AI+%26+Machine+%26+Learning+%26+Blockchain"></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=AI,Machine+%26+Learning+%26+Blockchain"></h3>
 
 <!--About-->
 </br>
