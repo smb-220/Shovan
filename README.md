@@ -1,29 +1,24 @@
 <h1 align="center">Shovan Mishra</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=AI,Machine Learning+%26+Blockchain"></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=AI+Machine+Learning+%26+Blockchain"></h3>
 
-<!--About-->
+
 </br>
 
 <!--Skills-->
 
 ## 🚀 Languages and Tools:
 <p align="left"> <img src="https://img.icons8.com/fluency/48/000000/blockchain.png" alt="Blockchain"/>
-  <img src="https://img.icons8.com/plasticine/52/000000/bash.png" alt="Bash"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/><img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript"/></a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> </a>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
-<img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material-UI"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP"/> 
+  <img src="https://icons8.com/icons/set/java" alt="Java"
 </p>
 
-
-</br>
 
 </br>
 
@@ -35,8 +30,8 @@
 <a href = "https://www.linkedin.com/in/shovan-jagadish-mishra/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "https://www.instagram.com/shovan_mishraa/" target= "_blank"><img src="https://img.shields.io/badge/swapnil_kole01-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href ="https://github.com/smb-220"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href ="https://auth.geeksforgeeks.org/user/smb26bts"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="https://twitter.com/SHOVANMISH19869" target= "_blank"><img src="https://img.shields.io/badge/SwapnilKole6-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://wa.me/8480538605"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/smb26bts"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
 </p>
