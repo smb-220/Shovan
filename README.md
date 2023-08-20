@@ -5,6 +5,19 @@
 <!--About-->
 </br>
 
+<!-- GitHub Readme Streak Stats-->
+ 🔥 Streak stats
+
+
+<p align="center">
+  <a href="https://github.com/smb-220">
+    <img  alt="Shovan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smb-220&theme=highcontrast&hide_border=true"/>
+  </a>
+  
+</p>
+
+</br>
+
 <!--Skills-->
 
 ## 🚀 Languages and Tools:
@@ -20,6 +33,20 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> 
 </p>
 
+</br>
+
+
+## 📊 Github stats
+
+
+<details open=""> 
+  <br/>
+  <p align="center">
+  <a href="https://github.com/smb-220"><img align="center" height="192px" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smb-220&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
+  <br/>
+  </p>
+ 
+</details>
 
 </br>
 
