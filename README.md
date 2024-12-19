@@ -62,6 +62,5 @@
 <a href ="https://github.com/smb-220"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href ="https://auth.geeksforgeeks.org/user/smb26bts"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="https://twitter.com/SHOVANMISH19869" target= "_blank"><img src="https://img.shields.io/badge/Shovan Mishra-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://wa.me/8480538605"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 </p>
